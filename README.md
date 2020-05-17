@@ -3,6 +3,9 @@ this is a workday scheduler made using bootstrap,css,font awesome,jquery and mom
 
 I had a lot of help from classmates and tutorials. I plan to revisit this project and see where I could have put my own spin on the scheduler.
 
+I understand the components and the basic necessity for the structure included but as with all things, repitition. 
+
 [github link to deployed version](https://zaguilar.github.io/Work-Day-Scheduler/.)
+
 
 
