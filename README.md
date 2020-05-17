@@ -5,4 +5,4 @@ I had a lot of help from classmates and tutorials. I plan to revisit this projec
 
 [github link to deployed version](https://zaguilar.github.io/Work-Day-Scheduler/.)
 
-![screenshot of deployed version] (image\2020-05-16 (1).png "screenshot of app")
+![image] (image/2020-05-16 (1).png)
